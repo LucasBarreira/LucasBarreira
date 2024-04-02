@@ -31,6 +31,8 @@
   </a>
 </p>
 
+</br></br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbarreira&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="lucasbarreira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbarreira&show_icons=true&locale=en&bg_color=00000000" alt="lucasbarreira" /></p>
